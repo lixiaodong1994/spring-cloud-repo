@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="microservice-consumer-movie" />
+        <module name="microservice-consumer-movie-feign-with-hystrix" />
+        <module name="microservice-consumer-movie-hystric" />
+        <module name="microservice-consumer-movie-ribbon" />
+        <module name="microservice-discovery-eureka" />
+        <module name="microservice-gateway-zuul" />
+        <module name="microservice-gateway-zuul-fallback" />
+        <module name="microservice-gateway-zuul-filter" />
+        <module name="microservice-gateway-zuul-reg-exp" />
+        <module name="microservice-hystrix-dashboard" />
+        <module name="microservice-hystrix-turbine" />
+        <module name="microservice-provider-user" />
+        <module name="microservice-sidecar" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="microservice-consumer-movie" target="1.8" />
+      <module name="microservice-consumer-movie-feign-with-hystrix" target="1.8" />
+      <module name="microservice-consumer-movie-hystric" target="1.8" />
+      <module name="microservice-consumer-movie-ribbon" target="1.8" />
+      <module name="microservice-discovery-eureka" target="1.8" />
+      <module name="microservice-gateway-zuul" target="1.8" />
+      <module name="microservice-gateway-zuul-fallback" target="1.8" />
+      <module name="microservice-gateway-zuul-filter" target="1.8" />
+      <module name="microservice-gateway-zuul-reg-exp" target="1.8" />
+      <module name="microservice-hystrix-dashboard" target="1.8" />
+      <module name="microservice-hystrix-turbine" target="1.8" />
+      <module name="microservice-provider-user" target="1.8" />
+      <module name="microservice-sidecar" target="1.8" />
+      <module name="spring-cloud" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

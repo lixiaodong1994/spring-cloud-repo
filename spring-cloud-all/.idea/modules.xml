@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/microservice-consumer-movie/microservice-consumer-movie.iml" filepath="$PROJECT_DIR$/microservice-consumer-movie/microservice-consumer-movie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-consumer-movie-feign-with-hystrix/microservice-consumer-movie-feign-with-hystrix.iml" filepath="$PROJECT_DIR$/microservice-consumer-movie-feign-with-hystrix/microservice-consumer-movie-feign-with-hystrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-consumer-movie-hystric/microservice-consumer-movie-hystric.iml" filepath="$PROJECT_DIR$/microservice-consumer-movie-hystric/microservice-consumer-movie-hystric.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-consumer-movie-ribbon/microservice-consumer-movie-ribbon.iml" filepath="$PROJECT_DIR$/microservice-consumer-movie-ribbon/microservice-consumer-movie-ribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-discovery-eureka/microservice-discovery-eureka.iml" filepath="$PROJECT_DIR$/microservice-discovery-eureka/microservice-discovery-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-gateway-zuul/microservice-gateway-zuul.iml" filepath="$PROJECT_DIR$/microservice-gateway-zuul/microservice-gateway-zuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-gateway-zuul-fallback/microservice-gateway-zuul-fallback.iml" filepath="$PROJECT_DIR$/microservice-gateway-zuul-fallback/microservice-gateway-zuul-fallback.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-gateway-zuul-filter/microservice-gateway-zuul-filter.iml" filepath="$PROJECT_DIR$/microservice-gateway-zuul-filter/microservice-gateway-zuul-filter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-gateway-zuul-reg-exp/microservice-gateway-zuul-reg-exp.iml" filepath="$PROJECT_DIR$/microservice-gateway-zuul-reg-exp/microservice-gateway-zuul-reg-exp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-hystrix-dashboard/microservice-hystrix-dashboard.iml" filepath="$PROJECT_DIR$/microservice-hystrix-dashboard/microservice-hystrix-dashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-hystrix-turbine/microservice-hystrix-turbine.iml" filepath="$PROJECT_DIR$/microservice-hystrix-turbine/microservice-hystrix-turbine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-provider-user/microservice-provider-user.iml" filepath="$PROJECT_DIR$/microservice-provider-user/microservice-provider-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-sidecar/microservice-sidecar.iml" filepath="$PROJECT_DIR$/microservice-sidecar/microservice-sidecar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud.iml" filepath="$PROJECT_DIR$/spring-cloud.iml" />
+    </modules>
+  </component>
+</project>
